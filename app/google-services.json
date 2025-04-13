@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "988930099372",
+    "project_id": "moviehub-mobile",
+    "storage_bucket": "moviehub-mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988930099372:android:aedd80bf82570fef31b709",
+        "android_client_info": {
+          "package_name": "com.jainer.moviehub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3FZvEaR2skYDgHomSdUR2GzNMy2D2Pik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
